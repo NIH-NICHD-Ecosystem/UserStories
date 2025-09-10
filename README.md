@@ -29,5 +29,4 @@ Each story listed below has been selected to drive a data ecosystem effort.
 |S71 | [As the NICHD Office of Data Science and Sharing, we want to distinguish real from perceived barriers to researchers' data science and sharing goals so we can develop resources that solve real challenges](https://github.com/NIH-NICHD-Ecosystem/UserStories/blob/main/stories/storyID-71.md)  | [E4: NICHD User Story Tracker Template Effort ](https://github.com/NIH-NICHD-Ecosystem/E4_NICHD-User-Story-Tracker-Template-Effort/blob/main/README.md)
 |S72| [As the NICHD Office of Data Science and Sharing, we want to understand current researcher data sharing and data science practices so we can develop strategies and resources to improve practices as needed ](https://github.com/NIH-NICHD-Ecosystem/UserStories/blob/main/stories/storyID-72.md)  | [E4: NICHD User Story Tracker Template Effort ](https://github.com/NIH-NICHD-Ecosystem/E4_NICHD-User-Story-Tracker-Template-Effort/blob/main/README.md)
 
-</br>|  |
 </br>
