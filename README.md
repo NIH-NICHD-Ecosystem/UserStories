@@ -1,4 +1,4 @@
-#### Library Main Navigation: &nbsp; &nbsp;  <b> Ecosystem Library Home </b> &nbsp; | &nbsp;[User Stories](https://github.com/NIH-NICHD-Ecosystem/UserStories/blob/main/README.md) &nbsp; | &nbsp; [Efforts](https://github.com/NIH-NICHD-Ecosystem/Efforts/blob/main/README.md) &nbsp; | &nbsp; [Library Help](https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md)
+#### Library Main Navigation: &nbsp; &nbsp;  <b> [Ecosystem Library Home](https://github.com/NIH-NICHD-Ecosystem) </b> &nbsp; | &nbsp; User Stories &nbsp; | &nbsp; [Efforts](https://github.com/NIH-NICHD-Ecosystem/Efforts/blob/main/README.md) &nbsp; | &nbsp; [Library Help](https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md)
 
 </br>
 
@@ -10,11 +10,12 @@ Each story listed below has been selected to drive a data ecosystem effort.
 ##### For more information about our Library structure and documentation, visit the [Library Help](https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md) 
 ##### Questions on a user story? Contact [NICHDecosystem@nih.gov](mailto:NICHDecosystem@nih.gov?subject=Ecosystem_Library)
 
+
 </br>
 
 
 ## User Stories List
-| S# | Full User Story | Related Efforts
+| S# | User Story | Related Efforts
 | :------------ | :-------------  | :------------- |
 |S3 | [ As NICHD staff, I want to be able to update a given field in the Data Repository Finder and track the date and reason for  the change, so that I can go back later and review why that decisions was made ](https://github.com/NIH-NICHD-Ecosystem/UserStories/blob/main/stories/storyID-3.md)  | [E1: Data Repository Finder](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/README.md)|
 |S30 | [As an NICHD researcher, I want to find the best data repositories for the sharing scientific data that I am generating in my project and understand the repository 's submission and sharing practices so  I can complete my Data Management and Sharing Plan](https://github.com/NIH-NICHD-Ecosystem/UserStories/blob/main/stories/storyID-30.md)  | [E1: Data Repository Finder](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/README.md) |
