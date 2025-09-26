@@ -11,7 +11,7 @@ Each user story is an informal, general explanation of a desired ecosystem featu
 
 <br>
 
-# S72: As the NICHD Office of Data Science and Sharing, we want to distinguish real from perceived barriers to researchers' data science and sharing goals so we can develop resources that solve real challenges  
+# S72: 	As the NICHD Office of Data Science and Sharing, we want to understand current researcher data sharing and data science practices so we can develop strategies and resources to improve practices as needed
 <br>
 
 | User Story | Current Problem | User Goal
