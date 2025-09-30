@@ -20,6 +20,6 @@ Each user story is an informal, general explanation of a desired ecosystem featu
 </br>
 
 Related Efforts: 
-[E6: Protecting scientific data when using generative AI ](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/README.md)
+[E6: Protecting scientific data when using generative AI ](https://github.com/NIH-NICHD-Ecosystem/E6-Protecting-scientific-data-when-using-generative-AI/tree/main)
 
 </br>
