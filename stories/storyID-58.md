@@ -20,6 +20,6 @@ Each user story is an informal, general explanation of a desired ecosystem featu
 </br>
 
 Related Efforts: 
-[E8: Common Issues in NIH Data Management & Sharing (DMS) Plans](https://github.com/NIH-NICHD-Ecosystem/E8-Common-Issues-in-NIH-Data-Management-&-Sharing-(DMS)-Plans/tree/main)
+[E8: Common Issues in NIH Data Management & Sharing (DMS) Plans](https://github.com/NIH-NICHD-Ecosystem/E8-Common-Issues-in-NIH-Data-Management-Sharing-DMS-Plans)
 
 </br>
